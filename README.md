@@ -1,8 +1,9 @@
 ### Hi there,I'm warma16 👋
 - 🎓 **Senior High Student** at Harbin NO.4 High School
 - ⚡ TypeScript / Python / Serverless. PyTorch
-- 🎵 Likes: Arrangement / Singing / TCM  and so on...
+- 🎵 Likes: Arrangement / Singing / Researching the SVS /TCM  and so on...
 - 📫 Visit My Blog: [oceroblog](http://oceroblog.metalstudio.top)
+- 📧 Email : metalstudio@126.com
 
 
 
