@@ -1,5 +1,5 @@
 ### Hi there,I'm warma16 👋
-- 🎓 **Senior High Student** at Harbin NO.4 High School
+- 🎓 **Undergraduate Student** at University of Jinan
 - ⚡ TypeScript / Python / Serverless. PyTorch
 - 🎵 Likes: Arrangement / Singing / Researching the SVS /TCM  and so on...
 - 📫 Visit My Blog: [oceroblog](http://oceroblog.metalstudio.top)
